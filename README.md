@@ -2,10 +2,10 @@
 
 成长中的后台新手
 
-## [MySQL](./mysql.md)
+## [MySQL](my_nodes/mysql.md)
 
-## [Go 项目](./go_project.md)
+## [Go 项目](my_nodes/go_project.md)
 
-## [常用 shell 命令行](./shell.md)
+## [常用 shell 命令行](my_nodes/shell.md)
 
-## [CI/CD](./ci_cd.md)
+## [CI/CD](my_nodes/ci_cd.md)
