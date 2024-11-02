@@ -74,7 +74,8 @@ func main() {
 		log.Fatalf("update product failed: %v", err)
 	}
 
-	// delete
+	// delete。软删除，只是设置了deleted_at
+	// 硬删除使用 unscoped
 	if err := db.Where("code = ?", "D1").Delete(&Product{}).Error; err != nil {
 		log.Fatalf("delete product failed: %v", err)
 	}
