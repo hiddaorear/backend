@@ -4,7 +4,7 @@
 
 ## [MySQL](my_nodes/mysql.md)
 
-## [Go 项目](my_nodes/go_project.md)
+## [Go primer](my_nodes/go_primer.md)
 
 ## [常用 shell 命令行](my_nodes/shell.md)
 
