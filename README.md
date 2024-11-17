@@ -2,6 +2,8 @@
 
 成长中的后台新手
 
+## [Go blog](my_nodes/blogs.md)
+
 ## [MySQL](my_nodes/mysql.md)
 
 ## [Go primer](my_nodes/go_primer.md)
