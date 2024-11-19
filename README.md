@@ -11,3 +11,8 @@
 ## [常用 shell 命令行](my_nodes/shell.md)
 
 ## [CI/CD](my_nodes/ci_cd.md)
+
+
+# 分享
+
+## [卮言悟空——闲聊Go中的nil](classroom/golang/nil/index.md)
