@@ -14,7 +14,7 @@
 【注意，不是路径，而是项目顶层文件夹名称】
 
 - `go mod init xxx_dir`
-- `go mod tidy
+- `go mod tidy`
 
 
 # 目录的组织
