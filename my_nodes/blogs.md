@@ -17,6 +17,12 @@
 
 ## 面向对象
 
+- [asong的go面试题](https://segmentfault.com/u/asong_5eeb7a1d0da86/articles)
+
+- [Go语言的设计与实现-接口](https://draveness.me/golang/docs/part2-foundation/ch04-basic/golang-interface/)
+
+- [为什么 Go 语言没有泛型](https://draveness.me/whys-the-design-go-generics/)
+
 - [如何写出优雅的 Go 语言代码](https://draveness.me/golang-101/)
 
 - [Go类型系统概述](https://gfw.go101.org/article/type-system-overview.html)
@@ -25,6 +31,8 @@
 ](https://egh0bww1.com/republish/2023-11-21-q-is-oop-detour/)
 
 - [为什么我不喜欢Go语言式的接口（即Structural Typing）](http://blog.zhaojie.me/2013/04/why-i-dont-like-go-style-interface-or-structural-typing.html)
+
+- [Golang GMP模型](https://kiosk007.top/post/golang-gmp/)
 
 ## 包
 
@@ -36,6 +44,8 @@
 - [Go基础：路径、文件名和包名的关系](https://blog.csdn.net/fly910905/article/details/120400199)
 
 ## Go的缺点
+
+- [Go是一门有亮点的语言，老许是牛人，但这本书着实一般](https://www.ituring.com.cn/article/37015)
 
 - [对 Go 语言的综合评价](https://www.yinwang.org/blog-cn/2014/04/18/golang)
 
