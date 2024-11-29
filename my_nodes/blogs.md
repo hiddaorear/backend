@@ -3,6 +3,10 @@
 
 ## error设计的思考
 
+- [The Error Model](https://joeduffyblog.com/2016/02/07/the-error-model/)
+
+- [为编程语言设计怎样的错误处理方式才是“好的”？](https://www.zhihu.com/question/584713844)
+
 - 《C++语言的设计和演化》
 
 - [错误处理(Error-Handling)：为何、何时、如何](https://blog.csdn.net/yapingxin/article/details/17137793)
