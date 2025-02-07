@@ -2,16 +2,27 @@
 
 成长中的后台新手
 
-## [Go blog](my_nodes/blogs.md)
+# 画图
+
+# 代码
+
+## Golang
+
+### [Go primer](my_nodes/go_primer.md)
+
+### [Go blog](my_nodes/blogs.md)
+
+## SQL
 
 ## [MySQL](my_nodes/mysql.md)
 
-## [Go primer](my_nodes/go_primer.md)
+## 算法
+
+# 工程
 
 ## [常用 shell 命令行](my_nodes/shell.md)
 
 ## [CI/CD](my_nodes/ci_cd.md)
-
 
 # 分享
 
