@@ -18,7 +18,7 @@
 
 ## 算法
 
-# 工程
+# 项目/工程
 
 ## [常用 shell 命令行](my_nodes/shell.md)
 
