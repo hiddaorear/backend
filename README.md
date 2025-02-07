@@ -14,7 +14,7 @@
 
 ## SQL
 
-## [MySQL](my_nodes/mysql.md)
+### [MySQL](my_nodes/mysql.md)
 
 ## 算法
 
