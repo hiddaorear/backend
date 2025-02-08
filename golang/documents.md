@@ -1,5 +1,9 @@
 # 所读资料
 
+## 面试题
+
+- [Go常见面试题【由浅入深】2022版](https://zhuanlan.zhihu.com/p/471490292)
+
 ## error设计的思考
 
 - [The Error Model](https://joeduffyblog.com/2016/02/07/the-error-model/)
