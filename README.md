@@ -60,11 +60,11 @@
 
 ## 基本表达
 
-## [常用 shell 命令行](enginering/atom/shell/index.md)
+## [常用 shell 命令行](engineering/atom/shell/index.md)
 
 ## 组合的方法
 
-## [CI/CD](enginering/union/ci_cd/index.md)
+## [CI/CD](engineering/atom/ci_cd/index.md)
 
 ## 抽象的方法
 
@@ -72,4 +72,4 @@
 
 # 分享
 
-## [卮言悟空——闲聊Go中的nil](classroom/golang/nil/index.md)
+## [卮言悟空——闲聊Go中的nil](101/nil/index.md)
