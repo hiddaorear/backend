@@ -24,7 +24,7 @@
 
 # Golang
 
-### [documents](golang/documents.md)
+- [documents](golang/documents.md)
 
 ## 基本表达
 
@@ -34,16 +34,16 @@
 
 ## 抽象的方法
 
-### [module](golang/abstract/module/index.md)
+- [module](golang/abstract/module/index.md)
 
 
 ## SQL
 
 ## 基本表达
 
-### [MySQL](sql/atom/mysql/index.md)
+- [MySQL](sql/atom/mysql/index.md)
 
-### [gorm](sql/atom/gorm/index.md)
+- [gorm](sql/atom/gorm/index.md)
 
 ## 组合的方法
 
@@ -62,16 +62,15 @@
 
 ## 基本表达
 
-## [常用 shell 命令行](engineering/atom/shell/index.md)
+- [常用 shell 命令行](engineering/atom/shell/index.md)
 
 ## 组合的方法
 
-## [CI/CD](engineering/atom/ci_cd/index.md)
+- [CI/CD](engineering/atom/ci_cd/index.md)
 
 ## 抽象的方法
 
 
-
 # 分享
 
-## [卮言悟空——闲聊Go中的nil](101/nil/index.md)
+- [卮言悟空——闲聊Go中的nil](101/nil/index.md)
