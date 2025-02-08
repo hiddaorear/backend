@@ -28,6 +28,8 @@
 
 ## 基本表达
 
+- [slice](golang/atom/slice/index.md)
+
 ## 组合的方法
 
 ## 抽象的方法
