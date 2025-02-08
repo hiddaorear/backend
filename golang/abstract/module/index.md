@@ -68,34 +68,6 @@ glog_file.go            glog_flags.go
 
 按照架构维度，目录有5个：model、repository、service、validate、trpc，每一个目录下有3个业务各自的独立文件。查看某一个业务代码的时候，就需要在5个目录中跳来跳去。
 
-## Go 的特性
-
-### internal
-
-### 包管理
-
-## Go 项目目录规范
-
- [project-layout](https://github.com/golang-standards/project-layout)
-
-## 从开发、部署和测试流程来看目录
-
-# 代码的组织
-
-## 综述：管理代码的复杂度
-
-群论
-
-## 以类型拆分
-
-### 面向对象
-
-
-### 设计模式
-
-## error 的问题
-
-## goroutin
 
 
 # 资料
