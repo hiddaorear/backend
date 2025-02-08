@@ -21,7 +21,10 @@
 
 ## 抽象的方法
 
-# 代码
+
+# Golang
+
+### [documents](golang/documents.md)
 
 ## 基本表达
 
@@ -29,23 +32,21 @@
 
 ## 抽象的方法
 
-## Golang
-
 ### [module](golang/abstract/module/index.md)
 
-### [documents](golang/documents.md)
 
 ## SQL
 
 ## 基本表达
 
+### [MySQL](sql/atom/mysql/index.md)
+
+### [gorm](sql/atom/gorm/index.md)
+
 ## 组合的方法
 
 ## 抽象的方法
 
-### [MySQL](sql/atom/mysql/index.md)
-
-### [gorm](sql/atom/gorm/index.md)
 
 ## 算法
 
@@ -59,13 +60,14 @@
 
 ## 基本表达
 
+## [常用 shell 命令行](enginering/atom/shell/index.md)
+
 ## 组合的方法
+
+## [CI/CD](enginering/union/ci_cd/index.md)
 
 ## 抽象的方法
 
-## [常用 shell 命令行](enginering/atom/shell/index.md)
-
-## [CI/CD](enginering/union/ci_cd/index.md)
 
 
 # 分享

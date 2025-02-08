@@ -52,11 +52,11 @@ glog_file.go            glog_flags.go
 
 ### 按功能职责维度设计
 
-![layout_by_business](./go_primer_img/layout_by_business.png)
+![layout_by_business](./layout_by_business.png)
 
 当我们看业务逻辑的时候，按照功能职责的结构，代码聚合在一个目录，一目了然。当我们看A业务的逻辑的适合，从3个目录中找其中一个。记人查看代码只需进入1次目录。修改业务代码，也只需在一个目录下操作。
 
-![layout_by_business_2](./go_primer_img/layout_by_business_2.png)
+![layout_by_business_2](./layout_by_business_2.png)
 
 这是业务代码各自独立的场景。但实际业务代码之间，会有依赖。业务B 的service依赖A、B、C的model，这样就形成了平级之间的依赖。在 Go 项目中，不推荐这样的依赖。从依赖角度来看，A和C的model，实际上已经不仅仅这两个业务在使用，通常会把二者提取出来。这样业务多了，model作为上层目录，存放个业务的model会更适合。model放在独立上层目录以后，人查看代码，就不只进入一次目录。进入业务目录，进入model目录，至少2次。当从model目录看代码的时候，就容易有一个疑问，这些model文件是在哪些地方用了，需要搜索或依赖IDE的跳转到业务调用处。
 
@@ -64,7 +64,7 @@ glog_file.go            glog_flags.go
 
 ### 按架构层次维度设计
 
-![layout_by_architecture](./go_primer_img/layout_by_architecture.png)
+![layout_by_architecture](./layout_by_architecture.png)
 
 按照架构维度，目录有5个：model、repository、service、validate、trpc，每一个目录下有3个业务各自的独立文件。查看某一个业务代码的时候，就需要在5个目录中跳来跳去。
 
