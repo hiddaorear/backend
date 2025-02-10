@@ -1,5 +1,19 @@
 # 所读资料
 
+## 英语资料
+
+- [One Billion Row Challenge in Golang - From 95s to 1.96s](https://r2p.dev/b/2024-03-18-1brc-go/)
+
+- [Life is Short](https://paulgraham.com/vb.html)
+
+- [How I write HTTP services in Go after 13 years](https://grafana.com/blog/2024/02/09/how-i-write-http-services-in-go-after-13-years/)
+
+- [I Don’t Like Go’s Default HTTP Handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
+
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+
+
+
 ## 面试题
 
 - [Go常见面试题【由浅入深】2022版](https://zhuanlan.zhihu.com/p/471490292)
@@ -34,8 +48,7 @@
 
 - [Go类型系统概述](https://gfw.go101.org/article/type-system-overview.html)
 
-- [「恒虚之境」面向对象（OOP）是编程语言发展中的弯路吗？为什么？
-](https://egh0bww1.com/republish/2023-11-21-q-is-oop-detour/)
+- [「恒虚之境」面向对象（OOP）是编程语言发展中的弯路吗？为什么？](https://egh0bww1.com/republish/2023-11-21-q-is-oop-detour/)
 
 - [为什么我不喜欢Go语言式的接口（即Structural Typing）](http://blog.zhaojie.me/2013/04/why-i-dont-like-go-style-interface-or-structural-typing.html)
 
@@ -59,4 +72,3 @@
 - [我为什么放弃Go语言](https://blog.csdn.net/liigo/article/details/23699459)
 
 - [为什么我认为goroutine和channel是把别的平台上类库的功能内置在语言里](http://blog.zhaojie.me/2013/04/why-channel-and-goroutine-in-golang-are-buildin-libraries-for-other-platforms.html)
-

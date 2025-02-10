@@ -51,3 +51,7 @@ t := []string{}
 > When designing interfaces, avoid making a distinction between a nil slice and a non-nil, zero-length slice, as this can lead to subtle programming errors.
 
 > 来自[Declaring Empty Slices](https://go.dev/wiki/CodeReviewComments#declaring-empty-slices)
+
+## 切片的底层实现带来的问题
+
+- [Go编程模式：切片，接口，时间和性能](https://coolshell.cn/articles/21128.html)
